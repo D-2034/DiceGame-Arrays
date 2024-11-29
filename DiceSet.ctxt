@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiceSet
+comment1.params=numDice
+comment1.target=DiceSet(int)
+comment2.params=
+comment2.target=void\ rollAll()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

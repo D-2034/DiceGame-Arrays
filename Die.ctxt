@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Die
+comment1.params=
+comment1.target=Die()
+comment2.params=numFaces
+comment2.target=Die(int)
+comment3.params=numFaces
+comment3.target=boolean\ isValidDieType(int)
+comment4.params=
+comment4.target=void\ roll()
+comment5.params=value
+comment5.target=void\ setFaceValue(int)
+comment6.params=
+comment6.target=int\ getFaceValue()
+comment7.params=
+comment7.target=java.lang.String\ getDieType()
+comment8.params=
+comment8.target=java.lang.String\ getFaceName()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

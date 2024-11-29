@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArrayOps"},{"p":"<Unnamed>","l":"ArrayOpsDriver"},{"p":"<Unnamed>","l":"DiceDriver"},{"p":"<Unnamed>","l":"DiceSet"},{"p":"<Unnamed>","l":"Die"},{"p":"<Unnamed>","l":"PascalTriangle"},{"p":"<Unnamed>","l":"PascalTriangleDriver"}];updateSearchResults();

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArrayOps
+comment1.params=size
+comment1.target=ArrayOps(int)
+comment2.params=
+comment2.target=char\ getMin()
+comment3.params=
+comment3.target=char\ getMax()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
